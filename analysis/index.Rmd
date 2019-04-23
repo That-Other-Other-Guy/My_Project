@@ -10,4 +10,4 @@ editor_options:
 
 Hello people reading this.
 
-* [Teeth analysis](teeth.html)
+* [Teeth analysis](tooth.html)
